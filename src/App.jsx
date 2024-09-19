@@ -10,7 +10,6 @@ function App() {
 
   return (
     <>
-      Learn Redux Toolkit With Qadir Javed
       <Addtodos />
       <Todos />
     </>
